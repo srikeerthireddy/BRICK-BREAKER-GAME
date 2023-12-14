@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,200;1,300;1,400;1,500;1,800&display=swap');
+body,html{
+    margin:0;
+    padding:0;
+    height: 100%;
+}
+.bg-image{
+    background-image: url('bg.png.jpg');
+    background-size: cover;
+  background-position: center;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+h1{
+   color: white;
+   font-size: 135px; 
+   font-family:"Poppins";
+   margin-bottom: 200px;
+
+   }
+   #start-button{
+     padding: 15px 30px;
+     font-size: 2em;
+     border: none;
+     background-color: rgb(204, 71, 50);
+     color: white;
+     font-weight: bold;
+     border-radius: 10px;
+     font-family: "Poppins";
+     cursor: pointer;
+}  
+.bg-image1{
+    background-image: url('bg.png.jpg');
+    background-size: cover;
+  background-position: center;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#nameInput{
+  padding: 10px;
+  margin: 20px;
+    width: 300px;
+    border-radius: 10px;  
+}
+input {
+
+    margin: 20px;
+    width: 300px;
+    background-color: rgb(215, 170, 220);
+    border-radius: 10px;  
+    color: rgb(6, 6, 6);
+    font-family:"Poppins";
+    padding: 10px;
+  }
+.content1{
+   color: white;
+  
+}
+#submit-button{
+    padding: 10px 20px;
+    font-size: 1.7em;
+    border: none;
+    background-color: rgb(204, 71, 50);
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    font-family: "Poppins";
+    cursor: pointer;
+}
+.main{
+    font-size:3em;
+    font-family: "Poppins";
+    
+
+}
+#input1{
+    font-size: 0.8em;
+    /* margin-right: 0px; */
+    
+}
+#input2{
+    font-size: 0.8em;
+    margin-left: 50px;
+    
+}
+.bg-image2{
+    background-image: url('bg.png.jpg');
+    background-size: cover;
+  background-position: center;
+  height: 100%;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+}
+.centered{
+    color: white;
+    font-family: "Poppins";
+    font-size: 3em;
+}
+.centered strong{
+  color: rgb(233, 153, 200);
+}
+.main1{
+    padding: 20px 40px;
+    background-color: rgb(151, 97, 201);
+    font-family: "Poppins";
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+      
+  }
+  #para{
+    margin-right: 100px;
+  }
+  #main4{
+    font-size: 30px;
+    margin-right: 500px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(107, 143, 185);
+    color: rgb(232, 25, 25);
+  }
+#scoreDisplay{
+  margin-left: 10px;
+}
+.bg-image3{
+  background-image: url('bg.png.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  display: flex;
+}
+.container #color,#blue{
+  color: white;
+  font-family: "Poppins";
+  font-weight: bold;
+  font-size: 35px;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+.container #color{
+  color: aqua;
+}
+.container #blue{
+  color:whitesmoke;
+  background-color: rgb(70, 70, 188);
+
+}
+
+.container #black{
+  color: rgb(192, 149, 231);
+  font-size: 35px;
+  margin-left: 20px;
+}
+.container #app{
+  color: white;
+  font-size: 25px;
+  font-family: "Poppins";
+  margin-left: 20px;
+}
+.main-container #play{
+  color: rgb(102, 205, 103);
+  font-family: "Poppins";
+  font-size: 40px;
+  margin-left: 150px;
+  margin-top: 40px;
+}
+.main-container #play1{
+  color: white;
+  font-family: "Poppins";
+  font-size: 20px;
+  margin-left: 85px;
+}
+.main-container strong{
+  color: rgb(201, 64, 121);
+}
+#play2 strong{
+  color: rgb(38, 121, 160);
+  font-family: "Poppins";
+  font-size: 20px;
+  margin-left: 0px;
+  
+}
+.main-container #play2{
+  color: white;
+  font-family: "Poppins";
+  font-size: 20px;
+  margin-left: 85px;
+}
+#play3 strong{
+  color: rgb(233, 140, 26);
+}
+.main-container #play3{
+  color: white;
+  font-family: "Poppins";
+  font-size: 20px;
+  margin-left: 85px;
+}
+.container #play4{
+  color: rgb(200, 244, 88);
+  font-size: 30px;
+  font-family: "Poppins";
+  margin-left: 20px;
+}
+.container button{
+  padding: 10px 20px;
+  font-size: 1.7em;
+  border: none;
+  background-color: rgb(204, 71, 50);
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  font-family: "Poppins";
+  cursor: pointer;
+  margin-left: 150px;
+}
+#app strong{
+  color: lightsalmon;
+}
