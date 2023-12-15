@@ -1,14 +1,20 @@
+  let videoElem = document.getElementById('123');
+  if (videoElem) {
+    let playAttempt = setInterval(() => {
+      document.getElementById('123').play()
+        .then(() => {
+          clearInterval(playAttempt);
+        })
+        .catch(error => { });
+    }, 3000);
+  }
+  document.body.addEventListener('click', () => {
+    document.getElementById('123').play()
+  })
+
+
 const startBtn=document.getElementById("start-button");
-startBtn.onclick=() => {
+
+startBtn.onclick=()=>{    
     window.location.href="./instruction.html";
-};
-function playBackgroundMusic(){
-    var backgroundMusic=new Audio('8-bit-halloween-story-166454.mp3');
-    backgroundMusic.volume=0.5;
-    backgroundMusic.loop=true;
-    backgroundMusic.play();
 }
-document.getElementById("start-button").addEventListener(click,function(){
-    
-})
-playBackgroundMusic();

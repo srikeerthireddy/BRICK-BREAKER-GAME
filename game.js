@@ -1,7 +1,7 @@
 //board
 let board;
-let boardWidth=1476;
-let boardHeight=722;
+let boardWidth=1345;
+let boardHeight=640;
 let context;
 //player
 let playerWidth=150;
@@ -35,9 +35,9 @@ let ball={
 }
 //blocks
 let blockArray=[ ];
-let blockWidth=85;
+let blockWidth=83;
 let blockHeight=30;
-let blockColumns=16;
+let blockColumns=15;
 let blockRows=6;
 let blockMaxRows=10;
 let blockCount=0;

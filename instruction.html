@@ -6,20 +6,49 @@
     <title>Instructions</title>
     <link rel="stylesheet" href="style.css">
     <style>
-        @media screen and (max-width:767){
-            .bg-image3{
-                background-image: cover;
-            }
-            #blue,#play-button{
-                font-size: 16px;
-            }
-            #color,#black,#app,#play,#play1,#play2,#play3,#play4{
-                font-size: 16px;
-            }
+        @media screen and (max-width:888px){
+           .bg-image3{
+            display: flex;
+            flex-direction: column;
+           }
+          body{
+            font-size: 20px;
+          }
+          .container #black,#app{
+            display: none;
+          }
+          .container #blue,#color,#play4{
+            font-size: 60px;
+          }
+          .container #play-button{
+            font-size: 50px;
+          }
+          .main-container #play1{
+            display: none;
+          }
+          .main-container #play2{
+            font-size: 30px;
+            margin-left: 20px;
+          }
+          .main-container #play{
+            margin-left: 10px;
+            font-size: 50px;
+          }
+          .main-container #play3{
+            font-size: 30px;
+            margin-left: 20px;
+          }
+          .main-container #play2 strong{
+            font-size: 35px;
+          }
+
         }
     </style>
 </head>
 <body>
+  <audio id="123" autoplay loop>
+    <source src="./8-bit-halloween-story-166454.mp3">
+  </audio>
     <div class="bg-image3">
         <div class="container">
             <button id="blue">! Instructions :</button>
@@ -34,10 +63,10 @@
         </div>
         <div class="main-container">
             <p id="play">Game Play :</p>
-            <p id="play1"><strong>1. Start :</strong> Press the spacebar to launch the the ball and begin the game.</p>
-            <p id="play1"><strong>2.Paddle Movement:</strong>  Use the left and right arrow keys to move the paddle.</p>
-            <p id="play1"> <strong>3.Ball Movement:</strong> The ball will bounce off the paddle and walls.Keep it from falling to the bottom. </p>
-            <p id="play1"> <strong>4.Brick Breaking:</strong> Hit the bricks with the ball to break them.</p>
+            <p id="play1"><strong>=> Start :</strong> Press the spacebar to launch the the ball and begin the game.</p>
+            <p id="play1"><strong>=>Paddle Movement:</strong>  Use the left and right arrow keys to move the paddle.</p>
+            <p id="play1"> <strong>=> Ball Movement:</strong> The ball will bounce off the paddle and walls.Keep it from falling to the bottom. </p>
+            <p id="play1"> <strong>=> Brick Breaking:</strong> Hit the bricks with the ball to break them.</p>
             <p id="play1"><strong>Winning: Clear all the blocks</strong></p>
 
             <p id="play2"><strong>Scoring:</strong></p>
