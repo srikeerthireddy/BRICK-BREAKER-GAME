@@ -9,5 +9,6 @@ function playBackgroundMusic(){
     backgroundMusic.play();
 }
 document.getElementById("start-button").addEventListener(click,function(){
-    playBackgroundMusic();
+    
 })
+playBackgroundMusic();
