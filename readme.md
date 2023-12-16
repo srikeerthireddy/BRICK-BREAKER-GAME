@@ -17,6 +17,7 @@
  ## Game-Over:
  When the ball touches the bottom not to the 
  paddle then the score page will be displayed.
+ ## Tech Stack: HTML and CSS and JavaScript.
 
  # Output:
  ![Screenshot (187)](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/fb9ac41b-f203-469f-bde4-774988d3e7d8)
