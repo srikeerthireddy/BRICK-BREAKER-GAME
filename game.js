@@ -37,11 +37,10 @@ let ball={
 let blockArray=[ ];
 let blockWidth=83;
 let blockHeight=30;
-let blockColumns=15;
+let blockColumns=14;
 let blockRows=6;
 let blockMaxRows=10;
 let blockCount=0;
-
 //starting block corner top left
 let blockX=15;
 let blockY=45;
