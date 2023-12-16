@@ -1,6 +1,6 @@
 //board
 let board;
-let boardWidth=1400;
+let boardWidth=1420;
 let boardHeight=720;
 let context;
 //player
