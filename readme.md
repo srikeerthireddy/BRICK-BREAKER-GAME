@@ -20,15 +20,25 @@
  ## Tech Stack: HTML and CSS and JavaScript.
 
  # Output:
- ![Screenshot (187)](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/fb9ac41b-f203-469f-bde4-774988d3e7d8)
 
- ![Screenshot (188)](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/905424ce-77ed-43be-b315-9a6a776b8b0d)
+![Screenshot 2023-12-16 095816](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/af95b460-7767-45d1-8fe5-97415eee7dff)
 
- ![Screenshot (189)](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/4ff9f765-3c5f-4008-ac3d-d33d50b031e2)
 
- ![Screenshot (190)](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/88c6cc17-97c6-49cb-863d-e2d9052c4327)
+![Screenshot 2023-12-16 100304](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/664f25b8-8b09-413f-a008-a0ee3c6e46af)
 
- ![Screenshot (191)](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/a73d398c-10a9-4b36-9fef-d0c43caff5d0)
+
+![Screenshot 2023-12-16 095908](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/83ce07c5-a4fe-4cd5-a5ce-90e26630e2cd)
+
+
+![Screenshot 2023-12-16 095954](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/6f1599f8-7c8e-4fc6-af5b-3443ea3d3df7)
+
+
+![Screenshot 2023-12-16 100005](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/dc057ca3-3d78-43bf-8a0a-e113a226709c)
+
+
+
+
+
 
 
 
