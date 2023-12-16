@@ -37,6 +37,10 @@
 
 ![Screenshot 2023-12-16 100005](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/dc057ca3-3d78-43bf-8a0a-e113a226709c)
 
+# Loom Video:
+
+https://www.loom.com/share/4e7bc453876f4332bc66a8cc9a2e1754?sid=c754602a-fd62-468f-90ce-6a955a2fb8ca
+
 
 
 
