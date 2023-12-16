@@ -1,6 +1,8 @@
 const submitBtn=document.getElementById("submit-button");
 submitBtn.onclick=()=>{
-    if(name.value!="" && nickName.value!=""){
+    var userName =document.getElementById("input1");
+    var nickName=document.getElementById("input2");
+    if(userName.value!="" && nickName.value!=""){
          window.location.href= "./game.html";
     }else{
         alert("Please enter valid details")
