@@ -19,6 +19,8 @@
  paddle then the score page will be displayed.
  ## Tech Stack: HTML and CSS and JavaScript.
 
+ ###Inspired from: Kenny Yip Coding
+
  # Output:
 
 ![Screenshot 2023-12-16 095816](https://github.com/srikeerthireddy/BRICK-BREAKER-GAME/assets/147797134/af95b460-7767-45d1-8fe5-97415eee7dff)
