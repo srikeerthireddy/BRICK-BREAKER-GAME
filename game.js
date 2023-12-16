@@ -6,7 +6,7 @@ let context;
 //player
 let playerWidth=150;
 let playerHeight=20;
-let playerVelocityX=10;
+let playerVelocityX=20;
 
 let player={
     x:boardWidth/2-playerWidth/2,
