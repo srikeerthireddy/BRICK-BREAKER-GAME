@@ -1,7 +1,7 @@
 //board
 let board;
-let boardWidth=1425;
-let boardHeight=700;
+let boardWidth=1476;
+let boardHeight=722;
 let context;
 //player
 let playerWidth=150;
@@ -16,7 +16,6 @@ let player={
     velocityX:playerVelocityX,
 }
 //ball
-
 let ballWidth=20;
 let ballHeight=20;
 let ballRadius=50;
@@ -41,6 +40,7 @@ let blockColumns=16;
 let blockRows=6;
 let blockMaxRows=10;
 let blockCount=0;
+
 //starting block corner top left
 let blockX=15;
 let blockY=45;
